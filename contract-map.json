@@ -1173,3 +1173,10 @@
     "decimals": 18
   }
 }
+  "0x532bA7b9534A31e0898A9A64E0A898d4BB8Db34d": {
+    "name": "Leirel Token",
+    "logo": "LEI Token Logo.svg",
+    "erc20": true,
+    "symbol": "LEI",
+    "decimals": 0
+  }
